@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../practical/proekt2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../homework/bd" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +37,7 @@
       <updated>1617121093889</updated>
       <workItem from="1617121095019" duration="1310000" />
       <workItem from="1617189227481" duration="15000" />
+      <workItem from="1617288468487" duration="2787000" />
     </task>
     <servers />
   </component>
