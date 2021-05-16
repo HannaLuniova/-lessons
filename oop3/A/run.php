@@ -1,25 +1,25 @@
 <?php
-//include 'A.php';
-//include 'Pre.php';
+include 'A.php';
+include 'Pre.php';
 include 'TList.php';
 include 'Ul.php';
 include 'Ol.php';
 
 
-//$a = new A();
-//echo $a
-//    ->setHref("https://www.tut.by")
-//    ->setInnerText("Тут.бай")
-//    ->html();
-//
-//echo $a
-//    ->setInnerText("ok")
-//    ->html();
-//
-//$pre = new Pre();
-//echo $pre
-//    ->setInnerText("Hi \n Привет")
-//    ->html();
+$a = new A();
+echo $a
+    ->setHref("https://www.tut.by")
+    ->setInnerText("Тут.бай")
+    ->html();
+
+echo $a
+    ->setInnerText("ok")
+    ->html();
+
+$pre = new Pre();
+echo $pre
+    ->setInnerText("Hi \n Привет")
+    ->html();
 
 $ul = new Ul();
 echo $ul

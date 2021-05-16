@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8985e2e7-2b9b-4cf0-ab01-c6df08efaba5" name="Default Changelist" comment="" />
+    <list default="true" id="8985e2e7-2b9b-4cf0-ab01-c6df08efaba5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance.php" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop3/A/run.php" beforeDir="false" afterPath="$PROJECT_DIR$/../oop3/A/run.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop3/dsg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop3/tag/tag.zip" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../practical/figma" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oop3" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +43,7 @@
       <updated>1617983637361</updated>
       <workItem from="1617983638472" duration="8811000" />
       <workItem from="1618141837935" duration="15000" />
+      <workItem from="1619357782293" duration="1903000" />
     </task>
     <servers />
   </component>

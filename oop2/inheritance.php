@@ -11,7 +11,7 @@ class Person
         $this->age = $age;
     }
 
-    public function say()
+    public function say(): string
     {
         return "Меня зовут $this->name, мне $this->age лет.";
     }
@@ -19,7 +19,7 @@ class Person
 
 class Worker extends Person
 {
-    public function work()
+    public function work(): string
     {
         return "Я умею ложить кирпичи";
     }
@@ -27,7 +27,7 @@ class Worker extends Person
 
 class Student extends Person
 {
-    public function work()
+    public function work(): string
     {
         return "Я умею разгружать вагоны";
     }

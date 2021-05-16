@@ -6,11 +6,11 @@ abstract class Auto
      * Кол-во топлива в литрах
      * @var float
      */
-    protected float $bac;
+    protected float $bac = 0;
 
     public function __construct()
     {
-        $this->bac = 0;
+        $this->bac = rand(0, 5);
     }
 
     /**
